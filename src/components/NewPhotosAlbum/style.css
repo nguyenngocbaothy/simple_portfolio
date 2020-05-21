@@ -1,0 +1,47 @@
+.new-photo {
+    width: 100%;
+    padding: 20px 10px;
+    cursor: pointer;
+}
+
+.card-new-photo {
+    width: 250px;
+    height: 250px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.card-content {
+    padding: 0px 10px;
+}
+
+.image-photo .image-create {
+    width: 248px;
+    height: 200px;
+    background-color: #FAFAFA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-photo {
+    cursor: pointer;
+}
+
+.title-new-photo {
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.ic-plus {
+    font-size: 50px;
+}
+
+.form-title {
+    margin: 10px 0px;
+}
+
+.img-upload span {
+    display: flex;
+    justify-content: center;
+}

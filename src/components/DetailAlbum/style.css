@@ -1,0 +1,32 @@
+.photo {
+    width: 100%;
+    padding: 20px 10px;
+}
+
+.card-photo {
+    width: 250px;
+    height: 250px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.image-photo>img {
+    width: 250px;
+    height: 250px;
+}
+
+.photo-info {
+    background-color: currentcolor;
+    opacity: 0.8;
+    height: 50px;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0px 10px;
+}
+
+.like-info {
+    color: white;
+    margin-left: 5px;
+}

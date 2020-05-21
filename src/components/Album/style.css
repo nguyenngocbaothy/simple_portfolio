@@ -1,0 +1,49 @@
+.album {
+    width: 100%;
+    padding: 20px 10px;
+}
+
+.card-album {
+    width: 250px;
+    height: 330px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.card-content {
+    padding: 0px 10px;
+}
+
+.image-album>img {
+    width: 250px;
+    height: 200px;
+}
+
+.subtitle {
+    font-size: 14px;
+    padding-top: 7px;
+}
+
+.title-album {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 240px;
+    display: block;
+    overflow: hidden;
+    padding: 10px 10px 0px 0px;
+    font-size: 20px;
+}
+
+.divider {
+    margin-bottom: 0px !important;
+    margin-top: 0px !important;
+}
+
+.bottom {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.star {
+    cursor: pointer;
+}
